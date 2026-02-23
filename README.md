@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**Jade11796/Jade11796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Jade Nguyen</strong><br>
+  Master of Commerce (Business Analysis) – Macquarie University<br>
+  Adelaide, Australia
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jade-nguyen-816b46288/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Welcome to my portfolio! Have a look around.  
+Projects organised by technology and business analysis focus.
+
+---
+
+## Business & Data Projects
+
+### Sales Performance Dashboard
+- **Tech Stack:** Scikit-learn | Clustering | EDA | Marketing Analytics  
+- Applied clustering techniques (K-Means, Hierarchical) to identify customer segments
+- Exploratory data analysis with summary statistics and insights
+- Provided actionable marketing recommendations tailored to each customer segment
+
+## Skills Summary
+
+**Business Analysis:**  
+Requirements Gathering | BRD | User Stories | Process Mapping | Gap Analysis | Stakeholder Communication | Workshop Facilitation | Functional & Non-Functional Requirements  
+
+**Data Analysis:**  
+SQL | Excel | Tableau | Data Cleaning | Exploratory Data Analysis (EDA) | KPI Development | Data Interpretation | Reporting  
+
+**Process Improvement:**  
+Workflow Analysis | Root Cause Analysis | Continuous Improvement | Documentation  
+
+**Technical & Tools:**  
+Python (Basic) | Database Concepts | Query Writing | Data Validation | API Understanding  
+
+**Data Visualisation:**  
+Tableau | Dashboard Design | Data Storytelling | Performance Reporting  
+
+**Business & Management:**  
+Communication | Problem Solving | Analytical Thinking | Entrepreneurial Experience | Client Management  
+
