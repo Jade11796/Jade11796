@@ -33,6 +33,15 @@ Projects organised by technology and business analysis focus.
 - Data cleaning, feature transformation, and variable relationship analysis
 - Employed regression ML for price predictions and feature impact identification
 
+---
+
+## Data Visualisation & Business Intelligence - Tableau Dashboards
+
+### [Australian Born Member Demographics (1996-2016)](https://public.tableau.com/app/profile/jade.nguyen3538/viz/Dashboard_ThedemographicsofmembersinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016_/DashboardThedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016?publish=yes)
+- Analysis of demographics for members born in Australia, Lebanon, North Macedonia, Scotland, South Africa, and Vietnam over 20 years.
+
+--- 
+
 ## Skills Summary
 
 **Business Analysis:**  
