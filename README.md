@@ -21,7 +21,7 @@ Projects organised by technology and business analysis focus.
 
 ## Business & Data Projects
 
-### Sales Performance Dashboard
+### [Customer Segmentation Analysis in Supermarket](https://github.com/Jade11796/Customer-Segmentation-Analysis-in-Supermarket)
 - **Tech Stack:** Scikit-learn | Clustering | EDA | Marketing Analytics  
 - Applied clustering techniques (K-Means, Hierarchical) to identify customer segments
 - Exploratory data analysis with summary statistics and insights
