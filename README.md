@@ -27,6 +27,12 @@ Projects organised by technology and business analysis focus.
 - Exploratory data analysis with summary statistics and insights
 - Provided actionable marketing recommendations tailored to each customer segment
 
+### [Predictive Analysis of Sydney House Prices from 2000 to 2019](https://github.com/Jade11796/Predictive-Analysis-of-Sydney-House-Prices)
+**Tech Stack:** Scikit-learn | Regression | Time Series Analysis | Feature Engineering
+- Analysed 19 years of Sydney house price data
+- Data cleaning, feature transformation, and variable relationship analysis
+- Employed regression ML for price predictions and feature impact identification
+
 ## Skills Summary
 
 **Business Analysis:**  
