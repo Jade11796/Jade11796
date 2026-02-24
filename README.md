@@ -19,6 +19,17 @@ Projects organised by technology and business analysis focus.
 
 ---
 
+## Database & Data Engineering
+
+### [Meraki Delivery Company: Database Design & SQL Queries](https://github.com/Jade11796/Meraki-Delivery-Company-SQL/blob/main/README.md)
+**Tech Stack:** SQL | Database Design | EER Diagrams | Query Optimization
+- Designed efficient EER diagram and applied logical transformation
+- Created SQL database from refined architecture
+- Developed optimized SQL queries for business insights
+- Extracted valuable business data via complex SQL queries
+
+---
+
 ## Business & Data Projects
 
 ### [Customer Segmentation Analysis in Supermarket](https://github.com/Jade11796/Customer-Segmentation-Analysis-in-Supermarket)
