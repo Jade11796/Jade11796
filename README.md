@@ -40,6 +40,9 @@ Projects organised by technology and business analysis focus.
 ### [Australian Born Member Demographics (1996-2016)](https://public.tableau.com/app/profile/jade.nguyen3538/viz/Dashboard_ThedemographicsofmembersinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016_/DashboardThedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016?publish=yes)
 - Analysis of demographics for members born in Australia, Lebanon, North Macedonia, Scotland, South Africa, and Vietnam over 20 years.
 
+### [Decline of Young Asian Immigrants in Australia (1996-2016)](https://public.tableau.com/app/profile/jade.nguyen3538/viz/Storyboard_AreyoungAsianimmigrantsonthedeclineinAustralia_/StoryAreyoungAsianimmigrantsonthedeclineinAustralia?publish=yes)
+- Story-based dashboard analysing trends in young Asian immigrant demographics.
+
 --- 
 
 ## Skills Summary
